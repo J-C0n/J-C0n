@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jake!
+- 👋 Hi, I’m Jake! I am an IT generalist and a budding cloud engineer and developer
 - 👀 I’m interested in machine learning and cloud computing
 - 🌱 I’m currently learning GCP, Python and Terraform
 
