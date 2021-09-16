@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Jake!
 - 👀 I’m interested in machine learning and cloud computing
 - 🌱 I’m currently learning GCP, Python and Terraform
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jake-conrad/)
+
+
+<a href=”https://www.linkedin.com/in/jake-conrad/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href=”https://twitter.com/j_c0nr">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 
 <!---
 J-C0n/J-C0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
