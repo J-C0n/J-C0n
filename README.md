@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jake! I am an IT generalist and a budding cloud engineer and developer. I love meeting new people and collaborating with others in new and exciting ways
-- 👀 I’m interested in machine learning and cloud computing
+- 👀 I’m interested in machine learning, cloud computing and cloud security!
 - 🌱 I’m currently learning GCP, Python and Terraform
 
 <a href="https://www.linkedin.com/in/jake-conrad"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
